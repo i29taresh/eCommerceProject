@@ -1,0 +1,14 @@
+README.md
+  h_e8015f27bac68b 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3601ad8f82c5329ed810bb06c218bc1dfdb9f111",
+  "prompts": {},
+  "humans": {
+    "h_e8015f27bac68b": {
+      "author": "taresh.sharma <taresh.sharma@telekom-digital.com>"
+    }
+  }
+}
